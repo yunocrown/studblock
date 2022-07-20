@@ -1,0 +1,81 @@
+name: student
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.5 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  dashbook: ^0.1.6
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/student/assets/images/ellipse2.png
+    - packages/student/assets/images/ellipse1.png
+    - packages/student/assets/images/vector.svg
+    - packages/student/assets/images/undrawreceiptrefre31.svg
+    - packages/student/assets/images/undraweducationf8ru1.svg
+    - packages/student/assets/images/undrawcertificationreifll1.svg
+    - packages/student/assets/images/rectangle25.svg
+    - packages/student/assets/images/rectangle252.svg
+    - packages/student/assets/images/ellipse116.svg
+    - packages/student/assets/images/rectangle31.svg
+    - packages/student/assets/images/rectangle32.svg
+    - packages/student/assets/images/rectangle38.svg
+    - packages/student/assets/images/rectangle39.svg
+    - packages/student/assets/images/rectangle40.svg
+    - packages/student/assets/images/group52.svg
+    - packages/student/assets/images/group51.svg
+    - packages/student/assets/images/path842.svg
+    - packages/student/assets/images/group.svg
+    - packages/student/assets/images/uuid25324785d0f24f1cad19f4bb5410ff47896.svg
+    - packages/student/assets/images/rectangle2.svg
+    - packages/student/assets/images/line1.svg
+    - packages/student/assets/images/line2.svg
+    - packages/student/assets/images/rectangle139.svg
+    - packages/student/assets/images/rectangle140.svg
+    - packages/student/assets/images/plus.svg
+    - packages/student/assets/images/orcid.svg
+    - packages/student/assets/images/undrawmobileloginre9ntv1.svg
+    - packages/student/assets/images/ellipse149.png
+    - packages/student/assets/images/line12.svg
+    - packages/student/assets/images/line13.svg
+    - packages/student/assets/images/rectangle72.svg
+    - packages/student/assets/images/undrawfemaleavatarw3jk1.svg
+    - packages/student/assets/images/ellipse3.png
+    - packages/student/assets/images/ellipse4.png
+    - packages/student/assets/images/ellipse5.png
+    - packages/student/assets/images/ellipse7.png
+    - packages/student/assets/images/ellipse8.png
+    - packages/student/assets/images/ellipse6.png
+    - packages/student/assets/images/undrawstatisticsrekox41.svg
+    - packages/student/assets/images/undrawteacherresico1.svg
+    - packages/student/assets/images/line3.svg
+    - packages/student/assets/images/undrawmypasswordreydq71.svg
+    - packages/student/assets/images/rectangle89.svg
+    - packages/student/assets/images/undrawgraduationregthn1.svg
+    - packages/student/assets/images/rectangle105.svg
+    - packages/student/assets/images/undrawschedulere2vro1.svg
+    - packages/student/assets/images/path438.svg
+    - packages/student/assets/images/path439.svg
+    - packages/student/assets/images/path442.svg
+    - packages/student/assets/images/path443.svg
+    - packages/student/assets/images/undrawprofilere4a551.svg
+    - packages/student/assets/images/rectangle130.svg
+    - packages/student/assets/images/line4.svg
+    - packages/student/assets/images/line5.svg
+    - packages/student/assets/images/line7.svg
+    - packages/student/assets/images/line8.svg
+    - packages/student/assets/images/line9.svg
+    - packages/student/assets/images/line10.svg
+    - packages/student/assets/images/line11.svg
+    - packages/student/assets/images/line6.svg
+    - packages/student/assets/images/undrawsocialsharereqb4v1.svg
